@@ -30,7 +30,7 @@ const Welcome1 = () => {
             "phone_number": event.target.num.value,
             "password": event.target.pass.value
         };
-        console.log(formData);
+
         let result = await axios
             .post(`${BaseUrl}`, formData)
             .then(res => res.data)
