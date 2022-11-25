@@ -16,7 +16,7 @@ Clone this repository to your computer
 
     	git checkout Ui
 
-### Create a branch
+### Creat a branch
 
 Create a new branch for your work, naming your branch accordingly, following the [recommended naming format](#):
 
